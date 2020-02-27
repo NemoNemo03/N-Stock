@@ -10,7 +10,7 @@ str = json.dumps(d1)
 print(str)
 d2 = json.loads(str)
 print(d2)
-x=3
+x=4
 print(x)
 
 #for line in open("input.txt"):
