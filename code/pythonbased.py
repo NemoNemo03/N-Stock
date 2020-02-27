@@ -10,6 +10,8 @@ str = json.dumps(d1)
 print(str)
 d2 = json.loads(str)
 print(d2)
+x=3
+print(x)
 
 #for line in open("input.txt"):
 #    file2.write('"'+line+'"'+",")
