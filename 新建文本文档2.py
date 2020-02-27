@@ -21,4 +21,5 @@ while i < len(str_list):
 str_list.reverse()                      #反转整个句子
 print(str_list)
 print(''.join(str_list))
-        
+x=3
+
